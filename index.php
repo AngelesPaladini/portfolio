@@ -46,7 +46,6 @@
           <a href="https://github.com/AngelesPaladini" target="_blank" title="Github"><i class="fab fa-github"></i></a>
           <a href="https://www.linkedin.com/in/angeles-paladini-3bb8761ab/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a>
         </div>
-        
         <div class="col-12 col-sm-3">
           Sponsor <a href="http://depcsuite.com">DEPC Suite</a>
         </div>
