@@ -18,9 +18,7 @@
 </head>
 
 <body id="contacto">
-  <?php
-  include_once("header.php");
-  ?>
+  <?php include_once("header.php"); ?>
   <main class="container">
     <div class="row">
       <div class="col-12 py-4 mb-4">

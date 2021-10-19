@@ -16,9 +16,7 @@ $header = "about-me";
 </head>
 
 <body id="sobre-mi">
-    <?php
-    include_once("header.php");
-    ?>
+    <?php include_once("header.php"); ?>
     <main>
         <div class="container" id="descripcion">
             <div class="row sobre-mi">
